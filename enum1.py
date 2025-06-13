@@ -315,24 +315,24 @@ if st.session_state.current_student:
             table_md = """
             | Question | Answer    | Question | Answer |
             |----------|-----------|----------|--------|
-            | q1.1     | bag       | q1.2     | pet    |
-            | q1.3     | run       | q2.1     | rip    |
-            | q2.2     | sash      | q2.3     | con    |
-            | q3.1     | frog      | q3.2     | pan    |
-            | q3.3     | rust      | q4.1     | plane  |
-            | q4.2     | nap       | q4.3     | sold   |
-            | q5       | The dock was busy with fishermen. | q6.1     | bike |
-            | q6.2     | down      | q6.3     | sound |
-            | q6.4     | warm      | q6.5     | water |
+            | q1.1     | sat       | q1.2     | bed    |
+            | q1.3     | fun       | q2.1     | tan    |
+            | q2.2     | met       | q2.3     | pot    |
+            | q3.1     | slam      | q3.2     | fed    |
+            | q3.3     | wind      | q4.1     | slide  |
+            | q4.2     | hear      | q4.3     | rake   |
+            | q5       | The tractor plowed the field in the rain | q6.1     | cooked |
+            | q6.2     | letter      | q6.3     | sang |
+            | q6.4     | neighbors   | q6.5     | house|
             """
         else:  # FM program
             table_md = """
             | Q - A       | Q - A    | Q - A | Q - A |
             |-------------|----------|-------|-------|
-            | A - 000000  | B - 0000 | C - 8 | D - 2 |
-            | E - 17      | F - 19   | G - 4 | H - 3 |
-            | I - 18      | J - 19   | K - 12| L - 22|
-            | M - option 2| N - 33   | O - 55| P - 79|
+            | A - 000  | B - 000000  | C - 7 | D - 4 |
+            | E - 15      | F - 18   | G - 6 | H - 3 |
+            | I - 16      | J - 18   | K - 13| L - 21|
+            | M - option 3| N - 62   | O - 32| P - 78|
             """
         st.markdown(table_md)
     
