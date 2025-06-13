@@ -11,7 +11,7 @@ SERVER = 'jskdsdj458.database.windows.net'
 DATABASE = 'zxncbzxcb'
 USERNAME = 'sharvas45'
 PASSWORD = 'Demo@123'
-DRIVER = 'ODBC Driver 18 for SQL Server'  # Ensure installed
+DRIVER = 'ODBC Driver 17 for SQL Server'  # Ensure installed
 
 # Initialize session state variables if they don't exist
 if "reset_counter" not in st.session_state:
