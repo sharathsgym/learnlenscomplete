@@ -23,12 +23,12 @@ from pathlib import Path
 os.system('cls')
 
 # OpenAI API Key
-sharath_api_key = "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"
+sharath_api_key = ""
 server = "jskdsdj458.database.windows.net"
 database = "zxncbzxcb"
 username = "sharvas45"
 password = "Demo@123"
-turn_token = 'eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJUdXJuIiwiZXhwIjoxNzYzNjQ0NzQxLCJpYXQiOjE3MzI3MTQ4NDMsImlzcyI6IlR1cm4iLCJqdGkiOiI5NzQzMDAyOS03YjkyLTQ2ZGItODEyYS0zMjc2NGYwNGNmYTgiLCJuYmYiOjE3MzI3MTQ4NDIsInN1YiI6Im51bWJlcjo0NzE5IiwidHlwIjoiYWNjZXNzIn0.1kSZPQCgDL5xq-yTiTZjuR836vsGCDwILwV3kDKltoB2VeVO4V9AmbqFNetouZgT8H4C7oPysmuOw9j1ftUVJw'
+turn_token = ''
 blob_connection_string = "DefaultEndpointsProtocol=https;AccountName=uploadedpics;AccountKey=hgtQ5B5oN+UTMiigp0otdYbTBm2aPDx2ABF1a8Q4VgIzySeXlE4HoYc2KRqwEHyaCRym2CAW98Ol+AStjwgNfA==;EndpointSuffix=core.windows.net"
 blob_container_name = "charts"
 marker_size=80
