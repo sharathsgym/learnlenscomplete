@@ -29,7 +29,7 @@ database = "zxncbzxcb"
 username = "sharvas45"
 password = "Demo@123"
 turn_token = ''
-blob_connection_string = "DefaultEndpointsProtocol=https;AccountName=uploadedpics;AccountKey=hgtQ5B5oN+UTMiigp0otdYbTBm2aPDx2ABF1a8Q4VgIzySeXlE4HoYc2KRqwEHyaCRym2CAW98Ol+AStjwgNfA==;EndpointSuffix=core.windows.net"
+blob_connection_string = ""
 blob_container_name = "charts"
 marker_size=80
 aruco_dict = aruco.getPredefinedDictionary(aruco.DICT_4X4_50)
